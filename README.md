@@ -24,6 +24,3 @@ This project is a simple 3D YouTube logo keychain designed using Onshape.
 ## How to View
 1. Download the STL file.
 2. Open it using any 3D viewer.
-
-## Author
-Balqees Almohsen
